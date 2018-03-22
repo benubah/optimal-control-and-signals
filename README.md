@@ -1,2 +1,2 @@
 # optimal-control-and-signals
-Optimal Control and Signal using CVXR
+Optimal Control and Signal Examples using CVXR
