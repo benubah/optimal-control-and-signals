@@ -1,6 +1,8 @@
-# http://nbviewer.jupyter.org/github/cvxgrp/cvxpy/blob/master/examples/notebooks/WWW/robust_kalman.ipynb
-
+# The code below solves the standard Kalman filtering problem using CVXR. We plot and compare the true and recovered vehicle states.
 # Run kalmanfilter.R first to obtain the values for y
+#
+#This program is ported from CVXPY by Steve Diamond
+# See http://nbviewer.jupyter.org/github/cvxgrp/cvxpy/blob/master/examples/notebooks/WWW/robust_kalman.ipynb
 
 n = 1000 # number of timesteps
 T1 = 50 # time will vary from 0 to T with step delt
