@@ -1,6 +1,8 @@
 
 # This is a robust Kalman Filter Example using CVXR. This is the initial dynamic simulation. Another script will try to use CVXR to solve
 # the standard Kalman filtering problem to recover the system's states (x_true)
+# The other script is kalmanfilter2.R
+#
 # This program is ported from CVXPY by Steve Diamond
 # See http://nbviewer.jupyter.org/github/cvxgrp/cvxpy/blob/master/examples/notebooks/WWW/robust_kalman.ipynb
 
